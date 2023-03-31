@@ -1,3 +1,3 @@
-[![Sin-t-tulo.png](https://i.postimg.cc/jShXH9cy/Sin-t-tulo.png)](https://postimg.cc/v4cfM0pm)
+[![Sin-t-tulo.png](https://i.postimg.cc/W4FwB3jw/Sin-t-tulo.png)](https://postimg.cc/R3mtfvWW)
 
-La Venary ♥
+Ingeniero en Informatica con ganas deeee abrazar a La Venary ♥
