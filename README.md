@@ -6,7 +6,7 @@
 
 ### <div align="center">Soy Juan Andrés, Programador Full Stack  👨‍💻 </div>  
 
--🎓 Ingeniero en Informática titulado en [Duoc Uc Viña del Mar](https://www.duoc.cl/).
+- 🎓 Ingeniero en Informática titulado en [Duoc Uc Viña del Mar](https://www.duoc.cl/).
   
 
 - 🌱 Actualmente me encuentro aprendiendo Angular   
