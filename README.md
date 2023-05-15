@@ -9,7 +9,7 @@
 - 🎓 Ingeniero en Informática titulado en [Duoc Uc Viña del Mar](https://www.duoc.cl/).
   
 
-- 🌱 Actualmente me encuentro aprendiendo Angular   
+- 🌱 Actualmente me encuentro aprendiendo React 
   
 
 - ❤️ Siempre aprendiendo algo nuevo  
